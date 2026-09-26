@@ -2,5 +2,32 @@
   "buildCommand": "echo 'static site \u2014 no build step'",
   "outputDirectory": ".",
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/join",
+      "destination": "/#join",
+      "permanent": false
+    },
+    {
+      "source": "/cities",
+      "destination": "/#project-enquiry",
+      "permanent": false
+    },
+    {
+      "source": "/contact",
+      "destination": "/#project-enquiry",
+      "permanent": false
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/sitemap.xml",
+      "destination": "/public/sitemap.xml"
+    },
+    {
+      "source": "/llms.txt",
+      "destination": "/public/llms.txt"
+    }
+  ]
 }
