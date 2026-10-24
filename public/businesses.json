@@ -1,0 +1,97 @@
+{
+  "directory": "BuildersHaus",
+  "updated": "2026-10-24",
+  "registrationMeaning": "Owner-authorized BuildersHaus directory listings; no government-registry verification implied.",
+  "businesses": [
+    {
+      "slug": "rambo-wall-ceiling",
+      "name": "Rambo Wall & Ceiling",
+      "person": "Mason McKenzie",
+      "trade": "Walls, ceilings & steel stud framing",
+      "area": "Vancouver & Lower Mainland",
+      "phone": "778-773-2790",
+      "tel": "+17787732790",
+      "email": "rambowallceiling@gmail.com",
+      "website": "https://www.rambowalls.com/",
+      "image": "https://www.buildershaus.com/public/businesses/rambo-wall-ceiling.jpg",
+      "credit": "Rambo brand artwork with BMO Lougheed project photography. Photo: Mason McKenzie / Rambo.",
+      "desc": "Commercial interiors, acoustic and T-bar ceilings, drywall boarding and finishing, and steel stud framing.",
+      "details": [
+        [
+          "Start with the interior scope",
+          "Rambo works on walls, ceilings and steel stud framing for commercial interiors, tenant improvements, condo renovations and custom homes. Describe the spaces involved and the stage of the project when you contact Mason."
+        ],
+        [
+          "Bring the details that affect the quote",
+          "Share drawings, ceiling heights, intended finishes, access restrictions and your proposed sequence. Identify work around occupied areas and any coordination needed with other trades. Confirm the included materials, installation scope and schedule directly."
+        ],
+        [
+          "See the work before starting the conversation",
+          "Rambo\u2019s website includes project photography and accounts of acoustic ceilings, commercial framing and interior work. Use those examples to explain the result you are considering rather than assuming that every project needs the same system."
+        ]
+      ],
+      "registrationStatus": "registered",
+      "registeredOn": "2026-10-24"
+    },
+    {
+      "slug": "beewarm",
+      "name": "BeeWarm",
+      "person": "Robert Hamilton",
+      "trade": "Fireplaces, heating & gas fitting",
+      "area": "Lower Mainland, BC",
+      "phone": "604-765-8424",
+      "tel": "+16047658424",
+      "email": "bee@beewarm.ca",
+      "website": "https://beewarm.ca/",
+      "image": "https://www.buildershaus.com/public/businesses/beewarm.jpg",
+      "credit": "BeeWarm approved brand/share artwork. Illustration, not a customer service photograph.",
+      "desc": "Fireplace service, strata maintenance coordination, heating, hot water and gas-fitting enquiries with Robert Hamilton.",
+      "details": [
+        [
+          "A direct conversation with Robert",
+          "Contact BeeWarm about fireplaces, heating, hot water or gas-fitting work at your property. Include the city, equipment make and model if known, service history and the reason for the enquiry. Robert confirms the scope and availability directly."
+        ],
+        [
+          "Coordinate a strata fireplace service day",
+          "Councils and property managers can discuss a coordinated fireplace-service block. Current estimates are $140 each for 1\u20134 fireplaces, $120 for 5\u20139, $100 for 10\u201319 and $85 for 20 or more, before tax. Group rates require tight same-property bookings approved by Robert."
+        ],
+        [
+          "Prepare a booking enquiry",
+          "BeeWarm\u2019s public fireplace planning page helps owners and organizers collect the information needed for a service discussion. The staff booking app is in private beta; a public enquiry is not an instantly confirmed appointment. Automatic customer confirmations and online payment are not connected."
+        ]
+      ],
+      "registrationStatus": "registered",
+      "registeredOn": "2026-10-24"
+    },
+    {
+      "slug": "ls-fencing-metal-work",
+      "name": "LS Fencing & Metal Work",
+      "person": "Luke Smith",
+      "trade": "Fencing, gates & metal work",
+      "area": "Fraser Valley & Lower Mainland",
+      "phone": "604-758-0014",
+      "tel": "+16047580014",
+      "email": "Lsfencingandmetalwork@gmail.com",
+      "website": "https://lsfencingandmetalwork.com/",
+      "image": "https://www.buildershaus.com/public/businesses/ls-fencing-metal-work.jpg",
+      "credit": "LS Fencing & Metal Work approved brand/share artwork, supplied through the business website.",
+      "desc": "Commercial, industrial, strata and residential fencing, gates, welding and metal-work enquiries.",
+      "details": [
+        [
+          "Plan the perimeter around the property",
+          "LS Fencing & Metal Work handles enquiries for chain link fencing, gates, ornamental and cedar fencing, welding and related metal work. Its published service area covers the Fraser Valley and Lower Mainland."
+        ],
+        [
+          "Explain access as well as the fence line",
+          "Share the property location, approximate fence length, intended height, photos and the purpose of the boundary. For gates, explain the vehicles using the entrance, available space, slopes and any access-control requirements. Confirm measurements and the proposed system with the business."
+        ],
+        [
+          "Strata and commercial coordination",
+          "For a shared property, identify who can approve the work and describe resident, delivery and waste-collection access. Ask about repair versus replacement, staging and the work included in the quote. The business website includes service information and project examples for a more specific conversation."
+        ]
+      ],
+      "registrationStatus": "registered",
+      "registeredOn": "2026-10-24"
+    }
+  ]
+}
