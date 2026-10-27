@@ -22,6 +22,10 @@
   ],
   "rewrites": [
     {
+      "source": "/guides/reading-contractor-project-photo-sequences",
+      "destination": "/guides/reading-contractor-project-photo-sequences/index.html"
+    },
+    {
       "source": "/sitemap.xml",
       "destination": "/public/sitemap.xml"
     },
